@@ -1,0 +1,1 @@
+{"version":3,"sources":["stylish.css"],"names":[],"mappings":"AAAA,WACC,iBAAkB,CAAE,YAAY,CAChC,wBACD,CACA,SACC,UACD","file":"stylish.c73cb4fb.css","sourceRoot":"..","sourcesContent":["div#outpus{\r\n\toverflow-y: scroll; height:500px;\r\n\tbackground-color: #ff5400;\r\n}\r\ntextarea{\r\n\twidth: 100%;\r\n}"]}
