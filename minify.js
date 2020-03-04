@@ -1,5 +1,7 @@
 const fs=require("fs");
+const currentcodename="anne";
 const path=__dirname+"/dist";
+console.log("UTF-8 Minify\n\tCodename: " + currentcodename);
 fs.readdir(path, function (err, files) {
 	if(err){
 		console.warn("ERROR IN DIRLIST");
