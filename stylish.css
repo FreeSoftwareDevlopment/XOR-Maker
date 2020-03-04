@@ -1,0 +1,7 @@
+div#outpus{
+	overflow-y: scroll; height:500px;
+	background-color: #ff5400;
+}
+textarea{
+	width: 100%;
+}
